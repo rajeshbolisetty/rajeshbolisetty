@@ -4,6 +4,3 @@
 
 [![wakatime](https://wakatime.com/badge/user/1d989c28-2702-4655-a3e4-68929cc2306e.svg)](https://wakatime.com/@1d989c28-2702-4655-a3e4-68929cc2306e)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshbolisetty" alt="rajeshbolisetty" /></a> </p>
-
-## 🔥 Github Stats
-  <a href="https://github.com/rajeshbolisetty"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=rajeshbolisetty&theme=radical&title_color=ff3068?"></a>
